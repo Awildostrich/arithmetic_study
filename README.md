@@ -2,10 +2,15 @@
 
 关于自己算法学习过程的记录和一些笔记，同时熟悉 Git 管理代码的过程。
 
+<<<<<<< HEAD
 [2. 实现 Singleton](#2-实现-singleton)
 
+=======
+[xx](# 0)
+>>>>>>> 4702111ac2c8a1504141842a56b334fac827dbef
 - [1. best-time-to-buy-and-sell-stock](# 1. best-time-to-buy-and-sell-stock)
 - [2. ##](2. ##)
+# 0
 
 # 1. best-time-to-buy-and-sell-stock
 
