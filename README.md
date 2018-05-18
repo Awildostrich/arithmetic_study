@@ -2,7 +2,12 @@
 
 关于自己算法学习过程的记录和一些笔记，同时熟悉 Git 管理代码的过程。
 
+<<<<<<< HEAD
 
+=======
+- [1. best-time-to-buy-and-sell-stock](#1.-best-time-to-buy-and-sell-stock)
+# 1.-best-time-to-buy-and-sell-stock
+>>>>>>> b5ef5d66521f5839c45dd9cf8c2fa430f7e5775b
 
 C ++ 代码实现：
 
